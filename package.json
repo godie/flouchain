@@ -2,7 +2,7 @@
   "name": "flouchain",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "Library to define flows with dependencies in javascript",
   "main": "src/index.js",
   "module": "src/index.js",
   "types": "src/index.d.ts",
@@ -15,7 +15,7 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Diego Mendoza",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
