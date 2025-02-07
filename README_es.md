@@ -1,6 +1,6 @@
-# Flow.js
+# Flouchain
 
-Flow.js es una biblioteca ligera para manejar la ejecución de flujos de trabajo asíncronos con dependencias entre tareas en JavaScript.
+Flouchain es una biblioteca ligera para manejar la ejecución de flujos de trabajo asíncronos con dependencias entre tareas en JavaScript.
 
 ## Características
 
@@ -13,13 +13,13 @@ Flow.js es una biblioteca ligera para manejar la ejecución de flujos de trabajo
 ## Instalación
 
 ```sh
-npm install flow-js
+npm install flouchain
 ```
 
 ## Uso
 
 ```javascript
-import Flow from "flow-js";
+import Flow from "flouchain";
 
 const flow = new Flow("test");
 

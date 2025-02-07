@@ -1,4 +1,4 @@
-# Flow.js
+# flouchain
 
 Flow.js is a lightweight library for handling the execution of asynchronous workflows with dependencies between tasks in JavaScript.
 
@@ -13,7 +13,7 @@ Flow.js is a lightweight library for handling the execution of asynchronous work
 ## Installation
 
 ```sh
-npm install flow-js
+npm install flouchain
 ```
 
 ## Usage
